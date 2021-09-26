@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f76887db2d7c4817b8dd6ccf2a3e92c, type: 3}
+  m_Name: TMPGUIDMapping
+  m_EditorClassIdentifier: 
+  guidMappings:
+  - oldGUID: 'fileID: 1453722849, guid: b5bd0d848a86e48409fe56688d66ecb5'
+    newGUID: 'fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5 '
+  - oldGUID: 'fileID: -1620774994, guid: b5bd0d848a86e48409fe56688d66ecb5'
+    newGUID: 'fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca '
+  - oldGUID: 'fileID: 1148083418, guid: b5bd0d848a86e48409fe56688d66ecb5'
+    newGUID: 'fileID: 11500000, guid: 7b743370ac3e4ec2a1668f5455a8ef8a'
