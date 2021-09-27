@@ -82,12 +82,12 @@ namespace Axie.Core
             hasListenEvent = false;
         }
 
-        private void OnBecameVisible()
+        public void Visible()
         {
             //isInvisible = false;
             canPlayAnimation = true;
             spineAnimation.enabled = true;
-            spineAnimation.gameObject.SetActive(true);
+            //spineAnimation.gameObject.SetActive(true);
             switch (currentState)
             {
                 case State.Idle: Idle(); break;
@@ -97,11 +97,11 @@ namespace Axie.Core
             }
         }
 
-        private void OnBecameInvisible()
+        public void Invisible()
         {
             canPlayAnimation = false;
             spineAnimation.enabled = false;
-            spineAnimation.gameObject.SetActive(false);
+            //spineAnimation.gameObject.SetActive(false);
             //isInvisible = true;
         }
 

@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 5095740623218315518}
   - component: {fileID: 5095740623218315519}
   - component: {fileID: 5095740623218315516}
+  - component: {fileID: 4426242253325915938}
   m_Layer: 0
   m_Name: Spine GameObject (axie)
   m_TagString: Untagged
@@ -195,6 +196,20 @@ MonoBehaviour:
   _animationName: 
   loop: 0
   timeScale: 1
+--- !u!114 &4426242253325915938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5095740623218315506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f13dc2b154dc141ac8f36817bdf27b70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axieController: {fileID: 4914326640688361207}
+  meshRenderer: {fileID: 5095740623218315519}
 --- !u!1 &5095740623741399063
 GameObject:
   m_ObjectHideFlags: 0
