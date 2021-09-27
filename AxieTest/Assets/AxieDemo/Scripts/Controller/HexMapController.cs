@@ -16,11 +16,11 @@ namespace Axie.Core.HexMap
         private float cellHeight;
 
         [SerializeField]
-        private HexCellController cellTemplate;
+        private GameObject cellTemplate;
 
         private HexMap hexMap;
 
-        private Dictionary<Hex, HexCellController> cells = new Dictionary<Hex, HexCellController>();
+        private Dictionary<Hex, GameObject> cells = new Dictionary<Hex, GameObject>();
 
         public HexMap Map => hexMap;
 
@@ -45,7 +45,7 @@ namespace Axie.Core.HexMap
             var hexCellImage = GameObject.Instantiate(cellTemplate, this.transform);
             hexCellImage.gameObject.SetActive(true);
             hexCellImage.transform.position = position;
-            hexCellImage.SetHexData(cell);
+            //hexCellImage.SetHexData(cell);
 
             cells.Add(cell, hexCellImage);
         }
@@ -58,7 +58,7 @@ namespace Axie.Core.HexMap
                 var hexCellImage = GameObject.Instantiate(cellTemplate, this.transform);
                 hexCellImage.gameObject.SetActive(true);
                 hexCellImage.transform.position = position;
-                hexCellImage.SetHexData(cell);
+                //hexCellImage.SetHexData(cell);
 
                 cells.Add(cell, hexCellImage);
             }
@@ -76,7 +76,7 @@ namespace Axie.Core.HexMap
                 var hexCellImage = GameObject.Instantiate(cellTemplate, this.transform);
                 hexCellImage.gameObject.SetActive(true);
                 hexCellImage.transform.position = position;
-                hexCellImage.SetHexData(item.Key);
+                //hexCellImage.SetHexData(item.Key);
 
                 cells.Add(item.Key, hexCellImage);
             }

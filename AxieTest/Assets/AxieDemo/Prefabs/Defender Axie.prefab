@@ -183,11 +183,11 @@ MonoBehaviour:
   separatorSlotNames: []
   zSpacing: 0
   useClipping: 1
-  immutableTriangles: 0
+  immutableTriangles: 1
   pmaVertexColors: 0
   clearStateOnDisable: 0
   tintBlack: 0
-  singleSubmesh: 0
+  singleSubmesh: 1
   addNormals: 0
   calculateTangents: 0
   logErrors: 0

@@ -439,7 +439,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cellWidth: 0.55
   cellHeight: 0.55
-  cellTemplate: {fileID: 8916066231003100298, guid: 09c537c87dae045c4a6a787bbac097ec, type: 3}
+  cellTemplate: {fileID: 2603108844960866359, guid: 09c537c87dae045c4a6a787bbac097ec, type: 3}
 --- !u!4 &437159479
 Transform:
   m_ObjectHideFlags: 0

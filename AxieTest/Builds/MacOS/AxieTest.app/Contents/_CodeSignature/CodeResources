@@ -26,15 +26,15 @@
 		</data>
 		<key>Resources/Data/globalgamemanagers</key>
 		<data>
-		OcQP6Wf6UxIgJF+UaKgsaP+xT4s=
+		/3vhzs0KxRyDkCW5IFQJ5SSCGYw=
 		</data>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<data>
-		/78R+wILceDLlaoFmXHuUASah6c=
+		rt5NKVWt3Y4n5CE41ElPOAmc+0E=
 		</data>
 		<key>Resources/Data/il2cpp_data/Metadata/global-metadata.dat</key>
 		<data>
-		xEQSxaL4sbduT+QwSUYxI2FgHCQ=
+		QT7jublsZKWyTYl7rzAiDVuzJNA=
 		</data>
 		<key>Resources/Data/il2cpp_data/Resources/mscorlib.dll-resources.dat</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Resources/Data/level0</key>
 		<data>
-		bf1AscIsIPnA6/e2x1V8QArkngc=
+		BvGsrvwtnNo8JNFrZhO4QQZtuMw=
 		</data>
 		<key>Resources/Data/level0.resS</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Resources/Data/resources.assets</key>
 		<data>
-		/QHCv4+U6yZnkJ7Rca24yy56FrI=
+		zAzDx2XkGABsltBCGEFYuk++H9Q=
 		</data>
 		<key>Resources/Data/resources.assets.resS</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Resources/Data/sharedassets0.assets</key>
 		<data>
-		GEb8HuOS2OmVHctN3mK0444JFBQ=
+		OZuDexdTu2GSTtFimDMtBd/tE8w=
 		</data>
 		<key>Resources/Data/sharedassets0.assets.resS</key>
 		<data>
@@ -159,10 +159,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			eB3T16dQu/JKKrCD1tGaQzJK/po=
+			gwEnk7D2Vexyk2tCGFhsL3VlQ3A=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"781dd3d7a750bbf24a2ab083d6d19a43324afe9a" or cdhash H"da1639377b99f7bfe22571f09f690c7e38cec194"</string>
+			<string>cdhash H"83012793b0f655ec72936b4218586c2f75654370" or cdhash H"4322c53fe5411f80f8b8d3dd70c452c4a55ac0fd"</string>
 		</dict>
 		<key>Frameworks/UnityPlayer.dylib</key>
 		<dict>
@@ -177,10 +177,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			9fhuPcq7Alx1onP0hjkapaWluHE=
+			7nKMNfH1tLcAssxhqvgoeabHB2o=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"f5f86e3dcabb025c75a273f486391aa5a5a5b871" or cdhash H"fa7478c8ff7c6897fb4567451963f250bbd13f04"</string>
+			<string>cdhash H"ee728c35f1f5b4b700b2cc61aaf82879a6c7076a" or cdhash H"2c1fb0bdfda32ff4a5781da952f10e5ab2753c00"</string>
 		</dict>
 		<key>Resources/Data/Resources/unity_builtin_extra</key>
 		<dict>
@@ -221,21 +221,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w16hfP9KbXcTqS9tYxlRk2D4Z/hqoAc5WhG2ddeqGe8=
+			zYjw96VtidFvMAW9nwIJucioe9s7XZekNdifi2j9Sck=
 			</data>
 		</dict>
 		<key>Resources/Data/globalgamemanagers.assets</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QcoGG5p/+h7JGR0scahj2blh8hRDjdS5gAT7ptMg8Is=
+			awOhmZfOSjAY503Heb5KaPC5JDbiPQ9UEq+FbDp/JVY=
 			</data>
 		</dict>
 		<key>Resources/Data/il2cpp_data/Metadata/global-metadata.dat</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Wb0ws4tkHmjS0FmBvmIGOmfqhIPURGgahlUz76s00o=
+			SBt55Ro3YMzfxlfFjFLj9ezHQLLzGC9gibsAUB9tMSk=
 			</data>
 		</dict>
 		<key>Resources/Data/il2cpp_data/Resources/mscorlib.dll-resources.dat</key>
@@ -375,7 +375,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eepCBKvsUrmbY0OzizOrrIKGENhmn9rhAeooUGhhHs=
+			8KbK7m/D5yYBvWcAwdpgBv5UH1S96bSU7ZOQWtSGJAQ=
 			</data>
 		</dict>
 		<key>Resources/Data/level0.resS</key>
@@ -389,7 +389,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mc+S62hHeQItiiqjoJ+tfsp4vPAKKP3uBYmGg44vl+s=
+			B9E9Ej2fd0l5x1YIXELSMejVMKznxJBZ1t00yB88lpw=
 			</data>
 		</dict>
 		<key>Resources/Data/resources.assets.resS</key>
@@ -403,7 +403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a6nMjuzYSZvK28orxur5Wu67TTRgG9ZblmDeLn4rvSk=
+			gGAaZ0/f3xeXngVKB7htaOhIekuJCdt4e/1ojpP90A8=
 			</data>
 		</dict>
 		<key>Resources/Data/sharedassets0.assets.resS</key>
